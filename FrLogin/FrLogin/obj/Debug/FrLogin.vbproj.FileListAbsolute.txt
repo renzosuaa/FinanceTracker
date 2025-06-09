@@ -1,0 +1,13 @@
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\bin\Debug\FrLogin.exe.config
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\bin\Debug\FrLogin.exe
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\bin\Debug\FrLogin.pdb
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\bin\Debug\FrLogin.xml
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.vbproj.AssemblyReference.cache
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.Dashboard.resources
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.Form1.resources
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.Resources.resources
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.vbproj.GenerateResource.cache
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.vbproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.exe
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.xml
+C:\Users\PUP-CITE-CAD22\source\repos\FrLogin\FrLogin\obj\Debug\FrLogin.pdb
